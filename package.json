@@ -1,6 +1,6 @@
 {
-  "name": "react-grid-layout",
-  "version": "0.16.6",
+  "name": "react-grid-layout-fix",
+  "version": "0.16.7",
   "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:batazor/react-grid-layout.git"
   },
   "keywords": [
     "react",
@@ -74,7 +74,7 @@
     "react-dom": "^16.2.0",
     "react-hot-loader": "^3.1.3",
     "react-transform-hmr": "^1.0.2",
-    "style-loader": "^0.20.2",
+    "style-loader": "^0.21.0",
     "valiquire": "^0.3.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1"
